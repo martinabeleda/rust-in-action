@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "ch3-files",
+    "ch4-cubesat",
+    "ch5-cpu",
+]

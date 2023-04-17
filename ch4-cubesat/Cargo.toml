@@ -1,5 +1,5 @@
 [package]
-name = "ch4"
+name = "ch4-cubesat"
 version = "0.1.0"
 edition = "2021"
 
